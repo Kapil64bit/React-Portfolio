@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "/home/kapil/Downloads/Portfolio/portfolio-one/src/assets/HeroImage.png";
+import HeroImage from "../assets/HeroImage.png";
 import { BsFillArrowRightSquareFill } from "react-icons/bs";
 import { Link } from "react-scroll";
 
